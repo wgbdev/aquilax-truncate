@@ -1,1 +1,1 @@
-module github.com/aquilax/truncate
+module github.com/wgbdev/aquilax-truncate

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"unicode/utf8"
 
-	"github.com/aquilax/truncate"
+	"github.com/wgbdev/aquilax-truncate"
 )
 
 func ExampleTruncate() {
